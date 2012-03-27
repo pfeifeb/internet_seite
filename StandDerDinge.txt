@@ -1,1 +1,2 @@
-Hier können Angaben zum Vorranschreiten des Projektes und anstehende Aufgaben reingeschrieben werden.
+Hier kï¿½nnen Angaben zum Vorranschreiten des Projektes und anstehende Aufgaben reingeschrieben werden.
+Beispielsweise probiere ich im Moment GitHub aus.
